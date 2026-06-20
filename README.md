@@ -125,14 +125,6 @@ Simply open `index.html` in your browser — no build tools or dependencies need
 **Sadia Noreen**
 *Software Engineering Graduate *
 
-<p>
-  <a href="https://www.linkedin.com/in/sadia-noreen-6992682b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
