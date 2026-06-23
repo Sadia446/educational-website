@@ -83,7 +83,7 @@ egators-educational-website/
 ├──  course.html           # Courses page
 ├──  contact.html          # Contact page
 ├──  main.js               # JavaScript — navbar, FAQs, scroll
-│
+├──  screenshots   
 ├──  css/
 │   ├── style.css            # Main stylesheet
 │   ├── about.css            # About page styles
